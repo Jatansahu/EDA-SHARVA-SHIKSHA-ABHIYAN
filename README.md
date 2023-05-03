@@ -31,3 +31,22 @@ correlations between variables.
 5. Data Prediction: After exploring the data, we can build and train various models to
 predict or classify the target variable. This step involves selecting appropriate
 algorithms and evaluating their performance on the data.
+
+Course Code: IT495
+
+Semester 2
+
+Course Instructor: Gopinath Panda
+
+Group Number – 01
+ 
+1.(Muskan Khare)
+
+2.(Riya Kumari)
+
+3.(Dhruv Solanki)
+ 
+4.(Chinmaya Pandey)
+
+5.(Jatan Sahu)
+
